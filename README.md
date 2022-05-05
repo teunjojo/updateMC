@@ -5,7 +5,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge)](https://github.com/teunjojo)&nbsp;
 [![Donate](https://img.shields.io/badge/Donate-yellow?style=for-the-badge)](https://www.paypal.com/donate/?hosted_button_id=U9YA79HDTWTZW)
 
-# Update script for PaperMC and WaterfallMC
+# UpdateMC
 Shell script that installs PaperMC and WaterfallMC updates.
 
 ## installation
